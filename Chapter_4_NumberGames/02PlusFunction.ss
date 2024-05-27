@@ -27,9 +27,15 @@
             ((zero? m) n)
             (else (add1 (+ n (sub1 m)))))))
 
+(newline)
+(display "What's (+ 46 12) --> ")
+(println (+ 46 12))
+
+(newline)
 (display "What's the value of (+ 1 34) --> ")
 (println (+ 1 34))
 
+(newline)
 (display "What's the value of (+ 1 4) --> ")
 (println (+ 1 4))
 

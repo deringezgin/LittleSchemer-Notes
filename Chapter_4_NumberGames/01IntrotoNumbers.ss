@@ -72,7 +72,3 @@
 (println (zero? n))
 
 (newline)
-(display "What's (+ 46 12) --> ")
-(println (+ 46 12))
-
-(newline)
