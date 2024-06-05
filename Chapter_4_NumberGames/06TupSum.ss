@@ -1,3 +1,5 @@
+#| Derin Gezgin's Notes from the Little Schemer |#
+
 (define println
   (lambda (s)
     (display s)
@@ -22,3 +24,5 @@
 
 (display "What's the value of (tup+ tup1 tup2) --> ")
 (println (tup+ tup1 tup2))
+
+(newline)

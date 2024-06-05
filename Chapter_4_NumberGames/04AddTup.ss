@@ -1,3 +1,5 @@
+#| Derin Gezgin's Notes from the Little Schemer |#
+
 (define println
   (lambda (s)
     (display s)
@@ -11,3 +13,5 @@
 
 (define nums '(3 4 5 6))
 (println (addtup nums))
+
+(newline)

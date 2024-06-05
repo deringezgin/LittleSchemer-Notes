@@ -1,3 +1,5 @@
+#| Derin Gezgin's Notes from the Little Schemer |#
+
 (define println
   (lambda (s)
     (display s)
